@@ -34,5 +34,11 @@
     "question": "What is logistic regression?",
     "answer": "A classification algorithm using sigmoid.",
     "category": "ML"
+  },
+  {
+    "id": "6dd999aa",
+    "question": "\n    Say you roll a die three times. What is the probability of getting two sixes in a row?\n    ",
+    "answer": "\n    There are three ways to get two 6's consecutively on 3 dice rolls. \n    The pair either happens on rolls 1 and 2, or 2 and 3, or else all three are 6's. \n    In the first case with exactly two 6's, the probability is given by:\n    2 * (1/6) * (1/6) * (5/6) = 10/216\n    In the second case, the probability of all three rolls being 6's is given by:\n    (1/6) * (1/6) * (1/6) = 1/216\n    Adding these two cases together, we get a total probability of 11/216.\n    ",
+    "category": "Probability"
   }
 ]

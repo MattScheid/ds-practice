@@ -1,0 +1,13 @@
+# Core interactive environment
+jupyter
+notebook
+ipython
+
+# Markdown rendering (usually bundled, but listed for clarity)
+IPython
+
+# Semantic similarity model (optional but recommended)
+sentence-transformers
+
+# Testing
+pytest

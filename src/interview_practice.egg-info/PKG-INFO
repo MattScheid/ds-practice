@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: interview-practice
+Version: 0.1.0
+Summary: A Jupyter-based interview question practice tool
+Author: Your Name
+Requires-Python: >=3.8
+Requires-Dist: jupyter
+Requires-Dist: notebook
+Requires-Dist: ipython
+Requires-Dist: IPython
+Requires-Dist: sentence-transformers
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Dynamic: author
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

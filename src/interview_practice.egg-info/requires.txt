@@ -1,0 +1,8 @@
+jupyter
+notebook
+ipython
+IPython
+sentence-transformers
+
+[dev]
+pytest

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the difference between supervised and unsupervised learning?",
+    "answer": "Supervised learning uses labeled data, unsupervised does not.",
+    "category": "ML"
+  },
+  {
+    "id": "q2",
+    "question": "Explain the bias-variance tradeoff.",
+    "answer": "Bias is error from assumptions, variance is error from sensitivity to data. The tradeoff balances underfitting and overfitting.",
+    "category": "ML"
+  },
+  {
+    "id": "q3",
+    "question": "Write an SQL query to get the top 5 customers by revenue.",
+    "answer": "SELECT customer_id, SUM(revenue) AS total_revenue FROM sales GROUP BY customer_id ORDER BY total_revenue DESC LIMIT 5;",
+    "category": "SQL"
+  },
+  {
+    "id": "q4",
+    "question": "What are guardrail metrics in A/B testing?",
+    "answer": "Guardrail metrics ensure experiments do not harm key outcomes such as engagement, revenue, or integrity.",
+    "category": "Stats"
+  },
+  {
+    "id": "q5",
+    "question": "Describe your approach to leading a team of data scientists.",
+    "answer": "I focus on setting clear goals, fostering cross-functional trust, and developing my team through coaching and feedback.",
+    "category": "Leadership"
+  },
+  {
+    "id": "ba6e543c",
+    "question": "What is logistic regression?",
+    "answer": "A classification algorithm using sigmoid.",
+    "category": "ML"
+  }
+]
